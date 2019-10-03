@@ -1,5 +1,9 @@
 <template>
+<<<<<<< HEAD
   <div></div>
+=======
+  <div v-if></div>
+>>>>>>> master
 </template>
 
 <script>
