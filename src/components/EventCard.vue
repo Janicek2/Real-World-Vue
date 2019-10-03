@@ -1,11 +1,13 @@
 <template>
-  <div v-if=""></div>
+  <div v-if></div>
 </template>
 
 <script>
 export default {
   data() {
     'Cytat'
+    'Cytat'
+
   }
 }
 </script>
